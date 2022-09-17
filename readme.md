@@ -23,6 +23,8 @@ El proyecto hace uso del servicio de Giphy para funcionar, por lo que es necesar
 
 El archivo encargado de este proceso se encuentra en: **"src/helpers/getEnv.js"**.
 
+> NOTA: Para ejecutar las pruebas, el proyecto necesita un archivo **.env.test**, deberá contener las mismas variables de entorno del archivo **.env**.
+
 ### Iniciar la app.
 
 Para ejecutar el proyecto, simplemente ejecuten:
